@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm <your_name> 👋</h1>
+<h1 align="center">hey, i'm DOLAND TRUMPP 👋</h1>
 
 <p align="center">
   student • builder • learner
@@ -6,9 +6,12 @@
 
 ---
 
+
+
 ```bash
 > whoami
 23 y/o student @ Delhi University
+
 
 > location
 India 🇮🇳
